@@ -1,4 +1,7 @@
-# future development and support was stopped
+# Starting to make custom keyboard like bitmoji + Advance feature
+
+## Need help in build Ndk
+- Facing problem in Suggestion after change Packagname 
 
 ### Known issues 
 * suggestion bar not showing
